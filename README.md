@@ -222,10 +222,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Department of Computer Science & Engineering  
 University of Moratuwa  
 
-Email: [your.email@university.lk](mailto:your.email@university.lk)  
-LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-GitHub: [Your GitHub Profile](https://github.com/yourusername)
-
 ## References
 
 1. Chen, D., Sain, S. L., & Guo, K. (2012). Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining. *Journal of Database Marketing & Customer Strategy Management*, 19(3), 197-208.
